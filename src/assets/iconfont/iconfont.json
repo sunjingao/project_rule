@@ -1,0 +1,44 @@
+{
+  "id": "3490692",
+  "name": "didaima",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "577309",
+      "name": "关闭1",
+      "font_class": "guanbi1",
+      "unicode": "e723",
+      "unicode_decimal": 59171
+    },
+    {
+      "icon_id": "1177679",
+      "name": "解决方案",
+      "font_class": "jiejuefangan",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "1727271",
+      "name": "06商品-线性",
+      "font_class": "shangpin-xianxing",
+      "unicode": "e889",
+      "unicode_decimal": 59529
+    },
+    {
+      "icon_id": "5387765",
+      "name": "文本_o",
+      "font_class": "wenben_o",
+      "unicode": "eb4e",
+      "unicode_decimal": 60238
+    },
+    {
+      "icon_id": "21433189",
+      "name": "轮播图",
+      "font_class": "lunbotu",
+      "unicode": "e6d1",
+      "unicode_decimal": 59089
+    }
+  ]
+}

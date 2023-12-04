@@ -1,0 +1,11 @@
+*.min.css
+
+# 其它类型文件
+*.js
+*.jpg
+*.woff
+*.vue
+
+# 测试和打包目录
+/dist/
+/src/assets/

@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+
+  .header {
+    height: 65px;
+    padding-left: 20px;
+    font-size: 15px;
+    line-height: 65px;
+    color: #fff;
+    background-color: #171f26;
+  }
+
+  .doc {
+    display: flex;
+    height: calc(100% - 65px);
+
+    .content {
+      flex: 1;
+      padding: 20px;
+      overflow: auto;
+    }
+  }
+}
